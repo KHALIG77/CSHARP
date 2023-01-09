@@ -69,7 +69,7 @@ namespace ConsoleFinal
                         {
                             if (group.IsOnline)
                             {
-                                if (ApplicationGroups.Students.Count <= 15)
+                                if (ApplicationGroups.Students.Count < 15)
                                 {
 
 
@@ -94,7 +94,7 @@ namespace ConsoleFinal
                             }
                             else 
                             {
-                                if(ApplicationGroups.Students.Count <= 10)
+                                if(ApplicationGroups.Students.Count < 10)
                                 {
                                     Student student = new Student();
 
