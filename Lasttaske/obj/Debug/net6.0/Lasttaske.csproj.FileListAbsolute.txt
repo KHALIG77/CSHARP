@@ -1,0 +1,15 @@
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\bin\Debug\net6.0\Lasttaske.exe
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\bin\Debug\net6.0\Lasttaske.deps.json
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\bin\Debug\net6.0\Lasttaske.runtimeconfig.json
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\bin\Debug\net6.0\Lasttaske.dll
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\bin\Debug\net6.0\Lasttaske.pdb
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.csproj.AssemblyReference.cache
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.AssemblyInfoInputs.cache
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.AssemblyInfo.cs
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.csproj.CoreCompileInputs.cache
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.dll
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\refint\Lasttaske.dll
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.pdb
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\Lasttaske.genruntimeconfig.cache
+C:\Users\khlgr\source\repos\Lasttaske\Lasttaske\obj\Debug\net6.0\ref\Lasttaske.dll
